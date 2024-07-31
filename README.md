@@ -8,4 +8,4 @@ My experience covers programming simple Arduino microcontrollers and basic Pytho
 If you have programmed something fun or are learning somethin new, please don't hesitate to tell me all about it, my curiosity knows no bounds.
 I want to deepen my understanding of various programming languages and learn even more cool stuff in the future!
 
-<img src="https://media.tenor.com/DlrBozJeVXQAAAAi/tkthao219-bubududu.gif" >
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNJROgGU7c3aRs8GICyG3BPOz5EdXnXuWyGg&s" >
